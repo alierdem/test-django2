@@ -8,6 +8,7 @@ authors = ["ali ihsan erdem <ali@ihsanerdem.com>"]
 python = "^3.8"
 Django = "^3.2.9"
 gunicorn = "^20.1.0"
+requests = "^2.26.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
